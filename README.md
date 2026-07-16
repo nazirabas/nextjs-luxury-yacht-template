@@ -4,6 +4,8 @@ Premium single-page landing template for luxury yacht charter, hospitality and b
 
 ![Preview](./public/screenshot.png)
 
+**Live demo:** [nextjs-luxury-yacht-template-mh0zant8u-elite-rentals-dubai.vercel.app](https://nextjs-luxury-yacht-template-mh0zant8u-elite-rentals-dubai.vercel.app)
+
 ## Features
 
 - **Cinematic hero** with full-screen backdrop image, gold accents and serif typography
