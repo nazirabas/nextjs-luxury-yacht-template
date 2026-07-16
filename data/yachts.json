@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "name": "Aurora Charters",
+    "tagline": "Private yacht experiences in Ibiza",
+    "phone": "+971501824077",
+    "email": "hello@example.com",
+    "location": "Ibiza, Spain"
+  },
+  "hero": {
+    "eyebrow": "Est. 2018",
+    "heading": "The Mediterranean, at your command.",
+    "subheading": "Curated charters aboard the finest yachts in Ibiza and Formentera. Discreet, effortless, unforgettable.",
+    "cta": "Enquire on WhatsApp",
+    "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=2000&q=80"
+  },
+  "yachts": [
+    {
+      "slug": "azimut-magellano-66",
+      "name": "Azimut Magellano 66",
+      "type": "Motor Yacht",
+      "length": "20 m",
+      "guests": 10,
+      "cabins": 3,
+      "priceFrom": "6,500 EUR / day",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80"
+    },
+    {
+      "slug": "sunseeker-predator-95",
+      "name": "Sunseeker Predator 95",
+      "type": "Sport Yacht",
+      "length": "29 m",
+      "guests": 12,
+      "cabins": 4,
+      "priceFrom": "12,000 EUR / day",
+      "image": "https://images.unsplash.com/photo-1540946485063-a40da27545f8?w=1200&q=80"
+    },
+    {
+      "slug": "ferretti-780",
+      "name": "Ferretti 780",
+      "type": "Flybridge",
+      "length": "24 m",
+      "guests": 10,
+      "cabins": 4,
+      "priceFrom": "9,200 EUR / day",
+      "image": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=1200&q=80"
+    }
+  ],
+  "features": [
+    { "title": "Handpicked fleet", "body": "Every yacht personally inspected. No surprises, no compromises." },
+    { "title": "Full concierge", "body": "Chef, tender, water toys, transfers. We build the day around you." },
+    { "title": "Discreet service", "body": "NDA-friendly. Signal-only communications available on request." }
+  ]
+}
